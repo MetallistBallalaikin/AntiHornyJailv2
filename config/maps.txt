@@ -84,7 +84,8 @@ map moonstation
 endmap
 
 map prison
-	minplayers 30
+    default
+    votable
 endmap
 
 map voidraptor
