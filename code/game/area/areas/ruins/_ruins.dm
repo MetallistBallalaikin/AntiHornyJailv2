@@ -19,3 +19,5 @@
 /area/ruin/powered
 	requires_power = FALSE
 
+/area/ruin/unpowered/planet
+	base_lighting_alpha = 255
