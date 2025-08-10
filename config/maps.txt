@@ -55,6 +55,9 @@ endmap
 #	minplayers 40
 #endmap
 
+map blackcarp
+endmap
+
 # Bubberstation maps.
 
 map biodome
@@ -64,6 +67,7 @@ endmap
 
 map blueshift
 	minplayers 65
+    default
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	votable
 endmap
@@ -81,11 +85,6 @@ endmap
 map moonstation
 	minplayers 50
 	votable
-endmap
-
-map prison
-    default
-    votable
 endmap
 
 map voidraptor
